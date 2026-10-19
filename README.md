@@ -36,7 +36,7 @@ Set the environment variable `SWEVUL_DATA` to the extracted dataset folder, and 
 
 Two inputs belong to other parties and are not redistributed with the code or the dataset. Place them in one folder and point `SWEVUL_EXTERNAL` at it (default: `external/` beside the scripts):
 
-- Swissgrid `EnergieUebersichtCH-YYYY.xlsx`, 2022-2025: https://www.swissgrid.ch/en/home/operation/grid-data/energy-data.html
+- Swissgrid `EnergieUebersichtCH-YYYY.xlsx`, 2022-2025: https://www.swissgrid.ch/en/home/customers/topics/energy-data-ch.html
 - swisstopo swissBOUNDARIES3D, file geodatabase `swissBOUNDARIES3D_1_5_LV95_LN02.gdb`: https://www.swisstopo.admin.ch/en/landscape-model-swissboundaries3d
 
 ## Citation
